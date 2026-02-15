@@ -54,7 +54,7 @@
 
 ## 🚀 阶段二：部署 OpenClaw
 
-> 🔗 **详细教程**：[https://cloud.tencent.com/developer/article/2626151](https://cloud.tencent.com/developer/article/2624003)
+> 🔗 **详细教程**：https://cloud.tencent.com/developer/article/2624003
 
 ### 第三步：重置 VPS，安装 OpenClaw
 
