@@ -18,8 +18,8 @@
 ### 第一步：注册腾讯云 CodeBuddy
 
 > 🔗 **活动链接**：
-> 邮箱注册（国际版）———— https://www.codebuddy.ai/promotion/?ref=chlw5oeiah
-> 微信登录（国内版）———— https://www.codebuddy.cn/promotion/?ref=7j6lct16z
+ 邮箱注册（国际版）———— https://www.codebuddy.ai/promotion/?ref=chlw5oeiah 
+ 微信登录（国内版）———— https://www.codebuddy.cn/promotion/?ref=7j6lct16z
 
 **流程：**
 1. 打开上方活动链接
