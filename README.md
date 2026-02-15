@@ -13,8 +13,6 @@
 
 ## 🚀 阶段一：领取免费 VPS
 
-> 🔗 **详细教程**：https://cloud.tencent.com/developer/article/2621753
-
 ### 第一步：注册腾讯云 CodeBuddy
 
 > 🔗 **活动链接**：
@@ -50,11 +48,12 @@
 
 这是为了熟悉部署流程，可做可不做～
 
+> 🔗 **详细教程**：https://cloud.tencent.com/developer/article/2621753
 ---
 
 ## 🚀 阶段二：部署 OpenClaw
 
-> 🔗 **详细教程**：https://cloud.tencent.com/developer/article/2624003
+> 🔗 **保姆教程**：https://cloud.tencent.com/developer/article/2624003
 
 ### 第三步：重置 VPS，安装 OpenClaw
 
